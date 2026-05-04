@@ -45,3 +45,14 @@
 ---
 
 *Add new hypotheses above this line.*
+
+### HYP-003: Upgrade to 8-site FMO Hamiltonian
+**Date:** 2026-05-04
+**Status:** Open
+**Question:** Does adding the 8th BChl molecule (discovered by Tronrud et al. 2009) at the chlorosome interface meaningfully change the energy transfer dynamics compared to the standard 7-site model?
+**Hypothesis:** The 8th BChl acts as an entry relay — accelerating the initial population drop from BChl 1 and shifting early-time oscillations, but leaving the final transfer to BChl 3 largely unchanged since it sits upstream of the main 7-site highway.
+**Experiment:** Implement the 8-site Hamiltonian from Tronrud et al. 2009, rerun Haken-Ströbl simulation, compare BChl 3 population at t=0.5ps and t=2.0ps against the 7-site result.
+**Links:** Tronrud et al. 2009 — *The structural basis for the difference in absorbance spectra for the FMO antenna protein*, `notebooks/01_fmo_haken_strobl.ipynb`
+**Notes:** 7-site model (Adolphs & Renger 2006) remains the established benchmark. 8-site extension is the natural next step once Milestone 1 is fully validated.
+
+---
