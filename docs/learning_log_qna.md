@@ -75,3 +75,42 @@
 ---
 
 *— End of log. New entries appended below as research continues. —*
+
+### Q: Does every plant have the FMO complex?
+
+**Short answer:** No. FMO is exclusive to green sulfur bacteria — a specific group of ancient bacteria that live in extremely low-light environments like deep water and sediments. Plants, trees, and algae use different but related light-harvesting proteins, the most common being LHCII (Light Harvesting Complex II), which is the most abundant membrane protein on Earth.
+
+**Nature analogy:** Think of light-harvesting proteins like different designs of water wheel built by different civilisations independently — some are small and simple, some are giant and elaborate, but they all use the same principle of catching flowing energy and converting it into useful work. FMO is the smallest, simplest wheel. LHCII is the industrial-scale version powering every green plant on Earth.
+
+**Why it matters for this research:** Each light-harvesting complex evolved independently but arrived at the same quantum mechanical design logic — protein scaffold, energy gradient, strong couplings, quantum coherence. This convergent evolution suggests the principles are universal, not specific to any one organism. What we learn from FMO should generalise to designing artificial systems.
+
+*Topic: FMO Complex / Energy Transfer*
+*Added: 2026-05-04*
+
+---
+
+### Q: Is FMO the simplest light-harvesting complex to study so we can apply the logic to more complex ones like LHCII?
+
+**Short answer:** Yes — exactly. FMO is the scientific community's chosen entry point precisely because it's small (7–8 molecules), well-characterised, soluble, and clean enough to model mathematically. Once the quantum mechanical principles are understood in FMO, the same logic applies upward to LHCII, LH1/LH2, phycobilisomes, and beyond — each adding layers of complexity but built on the same foundation.
+
+**Nature analogy:** It's like learning to read by starting with a children's picture book before moving to a novel. The alphabet is the same — the quantum mechanical principles don't change — but the sentence structure, the vocabulary, and the narrative complexity grow enormously. FMO is the picture book. LHCII is the novel. You have to master one before the other makes sense.
+
+**Why it matters for this research:** This is the entire strategic logic of the decoding-photosynthesis project. Decode FMO first — understand the Hamiltonian, the coupling patterns, the role of the protein scaffold, the quantum coherence. Then use those principles to inform the design of artificial molecular systems for CO₂ conversion. You don't need to copy nature's complexity. You need to extract nature's logic.
+
+*Topic: FMO Complex / Research Methods*
+*Added: 2026-05-04*
+
+---
+
+### Q: Are the molecular structures of different light-harvesting complexes similar to each other?
+
+**Short answer:** The core pigment molecules (BChl, Chl, etc.) are close variations of the same basic ring-shaped design — a porphyrin ring with a metal atom at the centre. But the protein scaffolds holding them are completely different structures with no resemblance to each other. What is universal across all of them is the *functional logic* — pigments spaced precisely, an energy gradient toward the reaction centre, strong couplings on productive pathways, and quantum coherence emerging in all of them.
+
+**Nature analogy:** Think of different bird species that all build nests. A weaver bird, an eagle, and a swallow use completely different materials, different shapes, and different construction techniques — but all nests share the same functional logic: shelter the eggs, face away from prevailing wind, keep predators out. The pigments are like the eggs (similar, precious, the functional core). The proteins are like the nest structures (wildly different). The functional logic is what evolution converged on independently every time.
+
+**Why it matters for this research:** The fact that completely different organisms with completely different protein structures all arrived at the same quantum mechanical solution — independently — means the solution is not tied to any specific molecule. It's tied to underlying physical principles. Extracting those principles from FMO gives you a design rulebook that applies to any artificial molecular system, regardless of what materials you build it from. This is the scientific foundation for using FMO insights to design CO₂ conversion systems.
+
+*Topic: FMO Complex / Energy Transfer / Artificial Photosynthesis*
+*Added: 2026-05-04*
+
+---
