@@ -56,3 +56,14 @@
 **Notes:** 7-site model (Adolphs & Renger 2006) remains the established benchmark. 8-site extension is the natural next step once Milestone 1 is fully validated.
 
 ---
+
+### HYP-004: ENAQT peak confirmed at room temperature
+**Date:** 2026-05-04
+**Status:** Confirmed ✅
+**Question:** Does environmental noise assist rather than hinder quantum energy transfer in FMO, and does efficiency peak at biological room temperature (γ ≈ 100 cm⁻¹)?
+**Hypothesis:** Yes — the ENAQT curve peaks at γ = 100 cm⁻¹, exactly where green sulfur bacteria operate, consistent with Rebentrost, Mohseni, Lloyd & Aspuru-Guzik 2009.
+**Experiment:** Section 5 dephasing sweep in `notebooks/01_fmo_haken_strobl.ipynb` — five Lindblad simulations at γ = 10, 50, 100, 300, 1000 cm⁻¹, population at BChl 4 measured at t = 0.3 ps.
+**Links:** [Rebentrost et al. 2009](https://iopscience.iop.org/article/10.1088/1367-2630/11/3/033003), `notebooks/01_fmo_haken_strobl.ipynb`
+**Notes:** Results — γ=10: 0.0412, γ=50: 0.0977, γ=100: 0.1125 (peak), γ=300: 0.1018, γ=1000: 0.0554. Peak lands exactly on orange room-temperature line. Classical simulation on Google Colab using QuTiP. Milestone 1 complete.
+
+---

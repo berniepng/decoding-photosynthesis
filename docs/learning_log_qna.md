@@ -114,3 +114,29 @@
 *Added: 2026-05-04*
 
 ---
+
+### Q: Was the FMO simulation running on IBM's quantum computer?
+
+**Short answer:** No. Everything ran on classical computers — Google's servers powering Colab, using QuTiP to solve quantum equations mathematically. Simulating quantum mechanical behaviour on a classical computer is completely different from running on actual quantum hardware. The physics modelled is quantum; the machine doing the calculation is not.
+
+**Nature analogy:** Imagine a detailed weather map that accurately predicts where a storm will go. The map correctly models the physics of the storm — pressure, wind, humidity — but the map itself is just ink on paper, not actual weather. QuTiP is the map. IBM Q is the actual storm. Milestone 2 is when you step outside into the real weather.
+
+**Why it matters for this research:** Classical simulation of quantum systems hits a hard wall as complexity grows — every additional molecule you add doubles the computational cost. This is why quantum computers are essential for this research at scale. A quantum computer doesn't simulate quantum mechanics; it physically is quantum mechanical. When you move to Milestone 2 and run on IBM Q hardware, you'll be doing something fundamentally different — not modelling the physics, but enacting it.
+
+*Topic: Quantum Computing / Research Methods*
+*Added: 2026-05-04*
+
+---
+
+### Q: What is the difference between simulating quantum mechanics classically and running on actual quantum hardware?
+
+**Short answer:** A classical simulation solves quantum equations mathematically using ordinary computer chips — accurate but exponentially expensive as the system grows. A quantum computer uses real qubits that physically exist in quantum superposition — it doesn't simulate quantum states, it instantiates them. The scaling cost that cripples classical simulation essentially disappears on quantum hardware.
+
+**Nature analogy:** Think of mapping a river delta. You could sit at a desk and mathematically calculate where every water molecule goes — accurate, but the calculation becomes impossibly complex as the delta grows. Or you could just pour real water into a real model of the landscape and watch it find its own path naturally, because water already knows how to be water. Classical computing is the desk calculation. Quantum computing is pouring real water.
+
+**Why it matters for this research:** The FMO complex has 7 sites — manageable classically. Real photosynthetic systems and artificial CO₂ conversion molecules will have tens or hundreds of coupled quantum sites. Classical simulation becomes impossible. Quantum simulation stays tractable. This is the long-term reason quantum computing is not just useful but necessary for this research programme.
+
+*Topic: Quantum Computing / Research Methods*
+*Added: 2026-05-04*
+
+---
