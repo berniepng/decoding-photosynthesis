@@ -9,7 +9,9 @@ pyscf>=2.4.0
 
 # Molecular / cheminformatics
 rdkit>=2023.9.0
-deepchem>=2.7.0
+# deepchem incompatible with Python 3.11+ (use alternatives below)
+datamol>=0.12.0         # molecular ML utilities built on rdkit
+molfeat>=0.9.0          # molecular featurisation for ML
 
 # Data & ML
 numpy>=1.26.0
@@ -31,3 +33,4 @@ ipywidgets>=8.1.0
 # Utilities
 requests>=2.31.0
 biopython>=1.83
+python-dotenv>=1.0.0    # load .env file locally
