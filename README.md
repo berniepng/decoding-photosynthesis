@@ -31,6 +31,7 @@ This README is a living document. It will evolve as new findings, papers, compan
 5. [Repo Structure](#5-repo-structure)
 6. [Roadmap](#6-roadmap)
 7. [Contributing & Notes](#7-contributing--notes)
+8. [Learning Log](docs/learning_log_qna.md)
 
 ---
 
