@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data (large files — track with Git LFS or exclude)
+data/raw/*.pdf
+data/raw/*.pdb
+data/processed/*.csv
+*.hdf5
+*.h5
+
+# IBM Quantum credentials (never commit)
+qiskit_ibm_runtime_credentials.json
+.qiskit/
+
+# Results (regeneratable)
+results/figures/*.png
+results/figures/*.svg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

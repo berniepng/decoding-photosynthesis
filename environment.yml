@@ -1,0 +1,26 @@
+name: quantum-photosynthesis
+channels:
+  - defaults
+  - conda-forge
+  - qiskit
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - plotly
+  - pip
+  - pip:
+    - qutip>=4.7.0
+    - qiskit>=1.0.0
+    - qiskit-ibm-runtime>=0.20.0
+    - qiskit-aer>=0.14.0
+    - rdkit>=2023.9.0
+    - deepchem>=2.7.0
+    - scikit-learn>=1.4.0
+    - streamlit>=1.32.0
+    - py3Dmol>=2.0.0
+    - biopython>=1.83
+    - torch>=2.2.0
