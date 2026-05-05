@@ -17,21 +17,21 @@
 
 **Why it matters for this research:** The sign pattern across the FMO Hamiltonian matrix is what creates quantum interference — the mechanism that makes photosynthetic energy transfer nearly 100% efficient. Understanding signs is the first step toward understanding how nature engineered that efficiency, and eventually how to replicate it artificially.
 
-*Topic: Hamiltonians / Quantum Mechanics*
-*Added: 2026-05-04*
+_Topic: Hamiltonians / Quantum Mechanics_
+_Added: 2026-05-04_
 
 ---
 
 ### Q: Does a large negative coupling number mean it's better than a large positive one?
 
-**Short answer:** No. The magnitude (size) of a coupling matters — larger means stronger connection — but the sign only tells you the *orientation* of that connection. Whether negative or positive is "better" depends entirely on the role that coupling plays within the whole network.
+**Short answer:** No. The magnitude (size) of a coupling matters — larger means stronger connection — but the sign only tells you the _orientation_ of that connection. Whether negative or positive is "better" depends entirely on the role that coupling plays within the whole network.
 
 **Nature analogy:** Think of a river delta flowing toward the sea. Some channels curve left, some curve right — the direction isn't what matters. What matters is whether each channel contributes to water reaching the ocean efficiently. A large channel curving the wrong way could actually divert water away from the sea. A smaller channel in exactly the right place might be more valuable. The FMO complex is the same — the whole network of couplings, their signs and magnitudes working together, determines efficiency. No single coupling can be judged in isolation.
 
-**Why it matters for this research:** When you eventually design artificial photocatalysts, you'll be tempted to maximise large negative couplings. This is a trap. The real design goal is a sign *pattern* across the whole molecule that creates constructive interference toward your target site — which requires thinking about the system as a whole, not optimising individual pairs. This is precisely why quantum computing is useful: it can simulate whole-network interference patterns that are impossible to evaluate classically at scale.
+**Why it matters for this research:** When you eventually design artificial photocatalysts, you'll be tempted to maximise large negative couplings. This is a trap. The real design goal is a sign _pattern_ across the whole molecule that creates constructive interference toward your target site — which requires thinking about the system as a whole, not optimising individual pairs. This is precisely why quantum computing is useful: it can simulate whole-network interference patterns that are impossible to evaluate classically at scale.
 
-*Topic: Hamiltonians / Energy Transfer*
-*Added: 2026-05-04*
+_Topic: Hamiltonians / Energy Transfer_
+_Added: 2026-05-04_
 
 ---
 
@@ -43,8 +43,8 @@
 
 **Why it matters for this research:** The shape and orientation of each BChl's flat ring determines how strongly it couples to its neighbours and what sign that coupling has. When designing artificial photosynthetic systems, the molecular geometry of your light-absorbing units directly controls the efficiency of energy transfer — you're essentially designing the lily pad arrangement.
 
-*Topic: FMO Complex*
-*Added: 2026-05-04*
+_Topic: FMO Complex_
+_Added: 2026-05-04_
 
 ---
 
@@ -56,8 +56,8 @@
 
 **Why it matters for this research:** The delocalised electron cloud is what gets transferred between BChl molecules in the FMO complex. You're not moving a particle — you're passing a quantum ripple from one molecular lake to the next. Understanding this is the bridge between chemistry and the quantum mechanics in your simulation.
 
-*Topic: FMO Complex / Quantum Mechanics*
-*Added: 2026-05-04*
+_Topic: FMO Complex / Quantum Mechanics_
+_Added: 2026-05-04_
 
 ---
 
@@ -69,12 +69,12 @@
 
 **Why it matters for this research:** The entire Hamiltonian matrix you simulated — every site energy and coupling value — is a consequence of protein geometry. When designing artificial photosynthetic systems for CO₂ conversion, you're not just designing molecules. You're designing the scaffold that holds them. The scaffold is arguably the harder and more important design problem.
 
-*Topic: FMO Complex*
-*Added: 2026-05-04*
+_Topic: FMO Complex_
+_Added: 2026-05-04_
 
 ---
 
-*— End of log. New entries appended below as research continues. —*
+_— End of log. New entries appended below as research continues. —_
 
 ### Q: Does every plant have the FMO complex?
 
@@ -84,8 +84,8 @@
 
 **Why it matters for this research:** Each light-harvesting complex evolved independently but arrived at the same quantum mechanical design logic — protein scaffold, energy gradient, strong couplings, quantum coherence. This convergent evolution suggests the principles are universal, not specific to any one organism. What we learn from FMO should generalise to designing artificial systems.
 
-*Topic: FMO Complex / Energy Transfer*
-*Added: 2026-05-04*
+_Topic: FMO Complex / Energy Transfer_
+_Added: 2026-05-04_
 
 ---
 
@@ -97,21 +97,21 @@
 
 **Why it matters for this research:** This is the entire strategic logic of the decoding-photosynthesis project. Decode FMO first — understand the Hamiltonian, the coupling patterns, the role of the protein scaffold, the quantum coherence. Then use those principles to inform the design of artificial molecular systems for CO₂ conversion. You don't need to copy nature's complexity. You need to extract nature's logic.
 
-*Topic: FMO Complex / Research Methods*
-*Added: 2026-05-04*
+_Topic: FMO Complex / Research Methods_
+_Added: 2026-05-04_
 
 ---
 
 ### Q: Are the molecular structures of different light-harvesting complexes similar to each other?
 
-**Short answer:** The core pigment molecules (BChl, Chl, etc.) are close variations of the same basic ring-shaped design — a porphyrin ring with a metal atom at the centre. But the protein scaffolds holding them are completely different structures with no resemblance to each other. What is universal across all of them is the *functional logic* — pigments spaced precisely, an energy gradient toward the reaction centre, strong couplings on productive pathways, and quantum coherence emerging in all of them.
+**Short answer:** The core pigment molecules (BChl, Chl, etc.) are close variations of the same basic ring-shaped design — a porphyrin ring with a metal atom at the centre. But the protein scaffolds holding them are completely different structures with no resemblance to each other. What is universal across all of them is the _functional logic_ — pigments spaced precisely, an energy gradient toward the reaction centre, strong couplings on productive pathways, and quantum coherence emerging in all of them.
 
 **Nature analogy:** Think of different bird species that all build nests. A weaver bird, an eagle, and a swallow use completely different materials, different shapes, and different construction techniques — but all nests share the same functional logic: shelter the eggs, face away from prevailing wind, keep predators out. The pigments are like the eggs (similar, precious, the functional core). The proteins are like the nest structures (wildly different). The functional logic is what evolution converged on independently every time.
 
 **Why it matters for this research:** The fact that completely different organisms with completely different protein structures all arrived at the same quantum mechanical solution — independently — means the solution is not tied to any specific molecule. It's tied to underlying physical principles. Extracting those principles from FMO gives you a design rulebook that applies to any artificial molecular system, regardless of what materials you build it from. This is the scientific foundation for using FMO insights to design CO₂ conversion systems.
 
-*Topic: FMO Complex / Energy Transfer / Artificial Photosynthesis*
-*Added: 2026-05-04*
+_Topic: FMO Complex / Energy Transfer / Artificial Photosynthesis_
+_Added: 2026-05-04_
 
 ---
 
@@ -123,8 +123,8 @@
 
 **Why it matters for this research:** Classical simulation of quantum systems hits a hard wall as complexity grows — every additional molecule you add doubles the computational cost. This is why quantum computers are essential for this research at scale. A quantum computer doesn't simulate quantum mechanics; it physically is quantum mechanical. When you move to Milestone 2 and run on IBM Q hardware, you'll be doing something fundamentally different — not modelling the physics, but enacting it.
 
-*Topic: Quantum Computing / Research Methods*
-*Added: 2026-05-04*
+_Topic: Quantum Computing / Research Methods_
+_Added: 2026-05-04_
 
 ---
 
@@ -136,7 +136,16 @@
 
 **Why it matters for this research:** The FMO complex has 7 sites — manageable classically. Real photosynthetic systems and artificial CO₂ conversion molecules will have tens or hundreds of coupled quantum sites. Classical simulation becomes impossible. Quantum simulation stays tractable. This is the long-term reason quantum computing is not just useful but necessary for this research programme.
 
-*Topic: Quantum Computing / Research Methods*
-*Added: 2026-05-04*
+_Topic: Quantum Computing / Research Methods_
+_Added: 2026-05-04_
+
+---
+
+### Q: How is light an integral component in quantum biological activities?
+
+**Light is the trigger** — photons excite electrons in pigment molecules, creating quantum superpositions and entangled energy states that are then steered with near-perfect efficiency through molecular networks. No light means no exciton, no coherence, no quantum transfer. The key insight logged: for artificial photosynthesis, light absorption and quantum dynamics aren't sequential steps — they're inseparable. Your CO₂ conversion design has to treat them that way from the start.
+
+_Topic: Quantum Mechanics_
+_Added: 2026-05-05_
 
 ---
