@@ -149,3 +149,55 @@ _Topic: Quantum Mechanics_
 _Added: 2026-05-05_
 
 ---
+
+### Q: Why did scientists hypothesize superposition instead of just explaining particles as physical objects colliding in one definite state?
+
+**Short answer:** They didn't choose superposition — they were forced into it. Every attempt to explain experimental results using definite single-state particles failed catastrophically. The double slit experiment, the photoelectric effect, and Bell's theorem experiments all produced results that are mathematically impossible under any classical "one definite state" model.
+
+**Nature analogy:** Imagine watching a river split around an island and then rejoin — the water on both sides creates ripple interference patterns downstream. Now imagine a single water droplet doing the same thing, interfering with itself as if it went around both sides of the island simultaneously. No classical explanation works. You are forced to accept the droplet was genuinely on both paths at once.
+
+**Why it matters for this research:** The FMO exciton exploits exactly this interference — it travels multiple energy transfer pathways simultaneously, and the interference between those paths routes energy to the reaction center efficiently. A classical "one path at a time" model predicts far lower transfer efficiency than what biology actually achieves.
+
+_Topic: Quantum Mechanics_
+_Added: 2026-05-05_
+
+---
+
+### Q: Does everything — atoms, molecules, photons, electrons — exist in superposition?
+
+**Short answer:** Yes, everything obeys quantum mechanics and is in principle capable of superposition. But for large objects, interactions with the surrounding environment collapse superpositions so instantaneously that classical behaviour emerges and quantum effects become undetectable. The transition from quantum to classical is governed by decoherence speed, not object size per se.
+
+**Nature analogy:** A single soap bubble in still air can hold its shape and shimmer with iridescent interference colours — its quantum-like wave properties are visible. The same bubble in a rainstorm is battered and collapsed instantly. The bubble hasn't changed its fundamental nature; its environment has changed how long it can maintain coherence. Large objects are permanently in the "rainstorm" — their environment is too dense and too fast for superposition to survive.
+
+**Why it matters for this research:** This is why quantum biology is remarkable. The FMO protein is essentially a molecular architecture that creates a pocket of "still air" inside a biological rainstorm — extending the exciton's coherence time just long enough for quantum interference to route energy efficiently before collapse.
+
+_Topic: Quantum Mechanics_
+_Added: 2026-05-05_
+
+---
+
+### Q: What determines the decoherence timescale across different systems?
+
+**Short answer:** The more interactions a quantum system has with its environment — collisions, entanglement with surrounding particles, electromagnetic coupling — the faster its superposition collapses. Decoherence time ranges from hours (subatomic particles in near-perfect vacuum) to femtoseconds (molecules in warm biological environments) to effectively zero (macroscopic objects at room temperature).
+
+**Nature analogy:** A wolf howl in an open valley carries for kilometres — few obstacles to interrupt it. The same howl in a dense rainforest is absorbed and scattered within metres. The quantum system is the howl; the environment is the forest density. The FMO protein is a carefully shaped clearing in that forest — not silent, but structured enough to let the signal travel just far enough.
+
+**Why it matters for this research:** The Haken-Ströbl dephasing parameter in your Milestone 1 simulation is literally a model of this — it controls how fast the environment destroys coherence. Finding the dephasing rate that maximises energy transfer efficiency (ENAQT) is finding the biological sweet spot on this spectrum.
+
+_Topic: Quantum Mechanics / Haken-Ströbl Model_
+_Added: 2026-05-05_
+
+---
+
+### Q: Can superposition be observed by placing an atom in a vacuum or a viscous medium that slows movement?
+
+**Short answer:** Vacuum yes — viscous medium no, and for the opposite reason you'd expect. A vacuum removes environmental particles that cause decoherence, extending superposition. A viscous medium adds more molecular collisions, which accelerates decoherence and destroys superposition faster. The three real methods to observe superposition are: vacuum isolation, extreme cold (near absolute zero), and engineered molecular architecture that structures the environment rather than removes it.
+
+**Nature analogy:** To hear a faint bird call, you don't fill the forest with honey to slow the noise down — you find a quiet clearing at dawn with minimal wind and interference. Vacuum is the clearing. Extreme cold is silencing the wind. The FMO protein is evolution's version of finding the perfect acoustic clearing inside a noisy, warm, wet living cell.
+
+**Why it matters for this research:** Biology uses the third method — engineered molecular architecture — not vacuum or cold. This is what makes life remarkable: it achieves quantum coherence at room temperature inside a wet cell by precisely shaping the protein environment around the pigment molecules. Replicating this design principle, rather than requiring cryogenic conditions, is the holy grail of artificial quantum photosynthesis.
+
+_Topic: Quantum Mechanics / Research Methods_
+_Added: 2026-05-05_
+
+---
